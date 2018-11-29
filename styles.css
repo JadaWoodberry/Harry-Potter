@@ -1,0 +1,38 @@
+body {
+ text-align: center;   
+
+ color: gold;
+ border: solid 30px white;
+ border-radius: 40px;
+ padding:10px;
+}
+
+.cupcake {
+ width: 250px;   
+}
+.wand {
+ width: 100px;   
+}
+.light {
+ width: 89px;
+ position: absolute;
+ 
+}
+.right-align {
+    width: 200px;
+    background: blue;
+}
+.soundpic {
+ width: 300px;
+ filter: invert(100%);
+}
+.r0ck {
+ width: 160px;
+ position: absolute;
+ 
+}
+div {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2g9wD1VR7Ihj8dlgzrCFp161dSVVxnhAt6bglJM-4aoF9Xd00");
+     background-size: cover;
+}
+
